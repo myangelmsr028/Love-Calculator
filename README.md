@@ -1,96 +1,106 @@
-This is a model privacy policy, designed to be as generic as possible. We are not attorneys. We encourage those using this this model to consult a lawyer and have it reviewed by an expert as the language should change according to what your app does.
+<h1>Privacy Policy</h1>
 
-This privacy policy governs your use of the software application App Name (“Application”) for mobile devices that was created by Developer Company Name. The Application is Basic description of the app (features, functionality and content) 
 
- 
-What information does the Application obtain and how is it used?
-This section is designed to inform Users of the types of data that the app obtains and how that information is used. You'll find several types of data that are often obtained by apps, but you should provide Users with a clear, illustrative list of the most important data points obtained by your app.
+<p>Effective date: July 15, 2018</p>
 
-User Provided Information 
 
-The Application obtains the information you provide when you download and register the Application. Registration with us is optional. However, please keep in mind that you may not be able to use some of the features offered by the Application unless you register with us.
+<p>Love Calculator ("us", "we", or "our") operates the  website and the Love Calculator mobile application (the "Service").</p>
 
-Alternative language if you don't allow unregistered users: "Registration with us is mandatory in order to be able to use the basic features of the Application." (On the other hand, you might want to specify you don't let user register at all, but still list the information you collect).
+<p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. This Privacy Policy  for Love Calculator is powered by <a href="https://www.freeprivacypolicy.com/free-privacy-policy-generator.php">FreePrivacyPolicy.com</a>.</p>
 
-Mobile application developers should be aware that certain types of data, for example, medical records and certain types of financial information may be subject to existing privacy law, or any other current or future state, federal law, regulation, restriction, etc. Application developers creating apps that collect potentially sensitive information are encouraged to obtain counsel to ensure that their data collection policies are in line with current law in the jurisdiction(s) where the app may be used. If you collect credit card information, we strongly encourage you seek the advice of a professional to ensure PCI compliance and other specific security requirements.
- 
+<p>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.</p>
 
-When you register with us and use the Application, you generally provide (a) your name, email address, age, user name, password and other registration information; (b) transaction-related information, such as when you make purchases, respond to any offers, or download or use applications from us; (c) information you provide us when you contact us for help; (d) credit card information for purchase and use of the Application, and; (e) information you enter into our system when using the Application, such as contact information and project management information.
 
-This list is not comprehensive. Adjust it according to what your app actually asks for.
+<h2>Information Collection And Use</h2>
 
-We may also use the information you provided us to contact your from time to time to provide you with important information, required notices and marketing promotions.
+<p>We collect several different types of information for various purposes to provide and improve our Service to you.</p>
 
-Automatically Collected Information 
+<h3>Types of Data Collected</h3>
 
-If the Application collects information from and/or for social networking platforms (e.g., pulling contact information, friends lists, login information, photos or check-ins) you should ensure that the prior consent of the user is obtained.
- 
+<h4>Personal Data</h4>
 
-In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application. 
+<p>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:</p>
 
-Again, this list is not comprehensive. Adjust it according to what your app actually asks for.
+<ul>
+<li>Cookies and Usage Data</li>
+</ul>
 
- 
-Does the Application collect precise real time location information of the device?
-If your app uses geolocation, check out the specific branch of this document https://www.docracy.com/6513/mobile-privacy-policy-geolocated-apps-
+<h4>Usage Data</h4>
 
-This Application does not collect precise information about the location of your mobile device. 
+<p>We may also collect information that your browser sends whenever you visit our Service or when you access the Service by or through a mobile device ("Usage Data").</p>
+<p>This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.</p>
+<p>When you access the Service by or through a mobile device, this Usage Data may include information such as the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data.</p>
 
- 
+<h4>Tracking & Cookies Data</h4>
+<p>We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.</p>
+<p>Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.</p>
+<p>You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.</p>
+<p>Examples of Cookies we use:</p>
+<ul>
+    <li><strong>Session Cookies.</strong> We use Session Cookies to operate our Service.</li>
+    <li><strong>Preference Cookies.</strong> We use Preference Cookies to remember your preferences and various settings.</li>
+    <li><strong>Security Cookies.</strong> We use Security Cookies for security purposes.</li>
+</ul>
 
-Do third parties see and/or have access to information obtained by the Application?
-The following language covers anonymized data that third-party analytics services might collect for you, and a few other stardard cases where sharing users' data is fair and justified. Generally, app developers will want to have the right to transfer information collected by the app under certain circumstances. For example, if the app developer sells the app, the developer may want that information collected by the application transferred as part of the sale. While some of the more common examples of data transfer to third parties are provided, you are encouraged to work with counsel and/or privacy professional to determine if other examples should be included in the policy.
+<h2>Use of Data</h2>
+    
+<p>Love Calculator uses the collected data for various purposes:</p>    
+<ul>
+    <li>To provide and maintain the Service</li>
+    <li>To notify you about changes to our Service</li>
+    <li>To allow you to participate in interactive features of our Service when you choose to do so</li>
+    <li>To provide customer care and support</li>
+    <li>To provide analysis or valuable information so that we can improve the Service</li>
+    <li>To monitor the usage of the Service</li>
+    <li>To detect, prevent and address technical issues</li>
+</ul>
 
-Only aggregated, anonymized data is periodically transmitted to external services to help us improve the Application and our service. We will share your information with third parties only in the ways that are described in this privacy statement.
+<h2>Transfer Of Data</h2>
+<p>Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.</p>
+<p>If you are located outside India and choose to provide information to us, please note that we transfer the data, including Personal Data, to India and process it there.</p>
+<p>Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p>
+<p>Love Calculator will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</p>
 
-We may disclose User Provided and Automatically Collected Information:
+<h2>Disclosure Of Data</h2>
 
-as required by law, such as to comply with a subpoena, or similar legal process;
+<h3>Legal Requirements</h3>
+<p>Love Calculator may disclose your Personal Data in the good faith belief that such action is necessary to:</p>
+<ul>
+    <li>To comply with a legal obligation</li>
+    <li>To protect and defend the rights or property of Love Calculator</li>
+    <li>To prevent or investigate possible wrongdoing in connection with the Service</li>
+    <li>To protect the personal safety of users of the Service or the public</li>
+    <li>To protect against legal liability</li>
+</ul>
 
-when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+<h2>Security Of Data</h2>
+<p>The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.</p>
 
-with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+<h2>Service Providers</h2>
+<p>We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.</p>
+<p>These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.</p>
 
-if Developer Company Name is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
 
-If your app works with advertisers and analytics companies that collect personal data, your policy needs to have an Automatic Data Collection and Advertising section. Check out the specific branch here: https://www.docracy.com/6516/mobile-privacy-policy-ad-sponsored-apps-
 
- 
+<h2>Links To Other Sites</h2>
+<p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.</p>
+<p>We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p>
 
-What are my opt-out rights?
-If your app uses geolocation or taps into advertising services, check the appropriate branches linked above.
 
-You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. You can also request to opt-out via email, at privacy@applicationsite.com.
+<h2>Children's Privacy</h2>
+<p>Our Service does not address anyone under the age of 18 ("Children").</p>
+<p>We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.</p>
 
- 
 
-Data Retention Policy, Managing Your Information
-We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you’d like us to delete User Provided Data that you have provided via the Application, please contact us at privacy@applicationsite.com and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
+<h2>Changes To This Privacy Policy</h2>
+<p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.</p>
+<p>We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.</p>
+<p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
 
- 
 
-Children
-Your app has to comply with the Children’s Online Privacy Protection Act (COPPA). Developers should pay particular attention to COPPA when creating apps that contain cartoon characters or other features that may cause the app to be perceived as being directed towards children under 13. Consider including language in your Terms of Service that makes users represent they are of age. Application developers creating apps that might be governed under COPPA or similar laws are encouraged to obtain counsel to ensure that their data collection policies are in line with current law in the jurisdiction(s) where the app may be used.
-
-We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at privacy@applicationsite.com. We will delete such information from our files within a reasonable time.
-
- 
-Security
-Application developers should ensure that their security procedures are reasonable, and should provide an overview of their security procedures below.
-
-We are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our Application. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
-
- 
-
-Changes
-This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here and informing you via email or text message. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. You can check the history of this policy by clicking here.
-
- 
-
-Your Consent
-By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the United States your information will be transferred, processed and stored there under United States privacy standards. 
-
- 
-
-Contact us
-If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at privacy@applicationsite.com.
+<h2>Contact Us</h2>
+<p>If you have any questions about this Privacy Policy, please contact us:</p>
+<ul>
+        <li>By email: raghavendrarao028@gmail.com</li>
+          
+        </ul>                                
